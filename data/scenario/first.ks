@@ -1,12 +1,7 @@
 ;チュートリアル用スクリプトファイル
 *start
 
-[position layer=message0 page=fore frame="frame.png" margint="65" marginl="50" marginr="70" marginb="60"]
-[cm]
+;背景画像の切り替え実行
+[bg storage=rouka.jpg time=1000]
 
-[cm] メッセージウィンドウが下に表示されましたね？
-[r]1
-[r]2[l]
-[r]3
-[r]4
-[r]5
+背景が切り替わりましたね？
